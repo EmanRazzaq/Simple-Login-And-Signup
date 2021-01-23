@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822660532479",
+    "firebase_url": "https://aiman90.firebaseio.com",
+    "project_id": "aiman90",
+    "storage_bucket": "aiman90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822660532479:android:b11d6837de75ef092524ca",
+        "android_client_info": {
+          "package_name": "com.example.comtesteasylearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822660532479-j756mlgibi5aa5v0pqr9eprhra8rndpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCniVU1jfy64OQh3CNUP7aCLpSKWEbG39I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822660532479-j756mlgibi5aa5v0pqr9eprhra8rndpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
